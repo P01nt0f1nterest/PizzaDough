@@ -41,7 +41,7 @@ class ViewController: UIViewController {
     ///
     @IBAction func CalculateValues(sender: AnyObject) {
         
-        // TODO - Calculate and display values DICK
+        // TODO - Calculate and display values
         
     }
 }
